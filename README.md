@@ -18,6 +18,9 @@ mySQL
 #### Search
 Solr
 
+#### Geoblacklight
+Geoblacklight 4.1
+
 ## Local Development Environment Setup Instructions
 
 ### 1: Clone the repository to a local directory
